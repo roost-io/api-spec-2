@@ -1,0 +1,12 @@
+csvheader: statusCode, name, email, dob, address, gender, contact
+statusCode,name,email,dob,address,gender,contact
+200,John Doe,johndoe@gmail.com,1985-07-11,Oak Street, M,1234567890
+201,Jane Doe,janedoe@gmail.com,1990-05-25,Elm Street, F,0987654321
+200,Mark Twain,marktwain@gmail.com,1982-01-03,Palm Street, M,1122334455
+404,Bob Builder,bobbuilder@gmail.com,1988-09-14,Birch Street, M,2233445566
+200,Alice Wonderland,alicew@gmail.com,1995-02-28,Cedar Street, F,3344556677
+201,Lara Croft,laracroft@gmail.com,1992-10-21,Pine Street, F,4455667788
+404,Peter Parker,peterparker@gmail.com,1987-03-15,Maple Street, M,5566778899
+200,Harry Potter,harrypotter@gmail.com,1994-06-07,Willow Street, M,6677889900
+201,Ron Weasley,ronweasley@gmail.com,1994-12-29,Beech Street, M,7788990011
+404,Hermione Granger,hermionegranger@gmail.com,1993-11-22,Alder Street, F,8899001122

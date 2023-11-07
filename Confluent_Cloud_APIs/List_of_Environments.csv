@@ -1,0 +1,11 @@
+firstName,lastName,email,phoneNumber,statusCode,streetAddress,city,state,country,zipCode
+John,Doe,john.doe@gmail.com,1234567890,200,123 Maple St,New York,New York,USA,10001
+Jane,Doe,jane.doe@gmail.com,0987654321,404,234 Oak St,Los Angeles,California,USA,90001
+Bob,Smith,bob.smith@gmail.com,1357924680,500,345 Pine St,Chicago,Illinois,USA,60007
+Alice,Johnson,alice.johnson@gmail.com,2468135790,200,456 Palm St,Houston,Texas,USA,77001
+Charlie,Brown,charlie.brown@gmail.com,8642097531,404,567 Elm St,Philadelphia,Pennsylvania,USA,19019
+David,Williams,david.williams@gmail.com,7531598624,500,678 Cedar St,Phoenix,Arizona,USA,85001
+Eve,Jones,eve.jones@gmail.com,9513572468,200,789 Birch St,San Antonio,Texas,USA,78201
+Frankie,White,frankie.white@gmail.com,8529637410,404,890 Walnut St,Dallas,Texas,USA,75201
+Grace,Green,grace.green@gmail.com,7418529630,200,901 Fir St,Austin,Texas,USA,73301
+Helen,Black,helen.black@gmail.com,1593576824,404,104 Pineapple St,San Francisco,California,USA,94101

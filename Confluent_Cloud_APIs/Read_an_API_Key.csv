@@ -1,0 +1,12 @@
+csvheader: firstName,lastName,email,phone,age,address,statusCode
+
+John,Doe,johndoe@example.com,1234567890,30,123 Main St,200
+Jane,Doe,janedoe@example.com,0987654321,28,456 Main St,404
+Alice,Smith,alicesmith@example.com,1122334455,25,789 Main St,300
+Bob,Johnson,bobjohnson@example.com,2233445566,32,1012 Main St,500
+Charlie,Brown,charliebrown@example.com,3344556677,29,1314 Main St,200
+Dave,Miller,davemiller@example.com,4455667788,31,1516 Main St,404
+Eve,Jones,evejones@example.com,5566778899,27,1718 Main St,300
+Frank,Williams,frankwilliams@example.com,6677889900,33,1920 Main St,500
+Grace,Davis,gracedavis@example.com,7788990011,26,2122 Main St,200
+Hank,White,hankwhite@example.com,8899001122,34,2324 Main St,404

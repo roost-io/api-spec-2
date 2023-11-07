@@ -1,0 +1,11 @@
+statusCode,swaggerDatainfo,originalRequest
+200,checkId=123,request=GET
+404,checkId=456,request=POST
+500,checkId=789,request=PUT
+403,checkId=112,request=DELETE
+201,checkId=334,request=GET
+304,checkId=556,request=POST
+206,checkId=778,request=PUT
+401,checkId=990,request=DELETE
+303,checkId=223,request=GET
+307,checkId=445,request=POST

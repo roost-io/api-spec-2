@@ -1,0 +1,11 @@
+statusCode, swaggerDatainfo, originalRequest
+200, user1, post1
+404, user2, post2
+500, user3, get1
+301, user4, post3
+200, user5, get2
+502, user6, post4
+404, user7, get3
+301, user8, post5
+200, user9, get4
+500, user10, post6

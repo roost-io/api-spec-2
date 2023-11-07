@@ -1,0 +1,11 @@
+statusCode, swaggerDatainfo, originalRequest
+200, SDI1, OR1
+404, SDI2, OR2
+500, SDI3, OR3
+301, SDI4, OR4
+400, SDI5, OR5
+501, SDI6, OR6
+302, SDI7, OR7
+403, SDI8, OR8
+200, SDI9, OR9
+404, SDI10, OR10

@@ -1,0 +1,11 @@
+statusCode, firstName, lastName, email, phoneNumber, country, state, city, postalCode
+200, John, Doe, john.doe@example.com, 1234567890, USA, California, Los Angeles, 90001
+200, Jane, Smith, jane.smith@example.com, 0987654321, USA, New York, New York City, 10027
+200, James, Johnson, james.johnson@example.com, 1122334455, USA, Texas, Houston, 77001
+200, Mary, Williams, mary.williams@example.com, 9988776655, USA, Florida, Jacksonville, 32201
+200, Robert, Brown, robert.brown@example.com, 8877665544, USA, Pennsylvania, Philadelphia, 19103
+200, Linda, Davis, linda.davis@example.com, 7766554433, USA, Illinois, Chicago, 60603
+200, Michael, Miller, michael.miller@example.com, 6655443322, USA, Ohio, Columbus, 43085
+200, Elizabeth, Wilson, elizabeth.wilson@example.com, 5544332211, USA, Michigan, Detroit, 48201
+200, David, Moore, david.moore@example.com, 4433221100, USA, Georgia, Atlanta, 30303
+200, Jennifer, Taylor, jennifer.taylor@example.com, 3322110099, USA, North Carolina, Charlotte, 28201

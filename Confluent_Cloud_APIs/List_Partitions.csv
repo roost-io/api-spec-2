@@ -1,0 +1,11 @@
+userId,firstName,lastName,email,age,city,state,zipcode,statusCode
+1234,John,Doe,john.doe@example.com,35,New York,NY,10001,200
+5678,Emma,Smith,emma.smith@example.com,30,Los Angeles,CA,90001,200
+9123,Robert,Johnson,robert.johnson@example.com,40,Chicago,IL,60601,200
+4567,Olivia,Williams,olivia.williams@example.com,25,San Francisco,CA,94101,200
+8912,James,Brown,james.brown@example.com,32,Houston,TX,77001,200
+3456,Isabella,Jones,isabella.jones@example.com,28,Phoenix,AZ,85001,200
+7891,William,Davis,william.davis@example.com,37,Philadelphia,PA,19101,200
+2345,Sophia,Miller,sophia.miller@example.com,29,San Antonio,TX,78201,200
+6789,Michael,Moore,michael.moore@example.com,36,San Diego,CA,92101,200
+1235,Noah,Taylor,noah.taylor@example.com,31,Dallas,TX,75201,200

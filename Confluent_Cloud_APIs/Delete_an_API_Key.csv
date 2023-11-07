@@ -1,0 +1,11 @@
+statusCode,firstName,lastName,email,gender,age,country
+200,John,Doe,johndoe@gmail.com,Male,30,USA
+201,Jane,Doe,janedoe@gmail.com,Female,28,Canada
+200,Robert,Smith,robertsmith@gmail.com,Male,35,UK
+201,Alice,Johnson,alicej@gmail.com,Female,25,Australia
+200,Michael,Jackson,michaeljackson@gmail.com,Male,40,Brazil
+201,Emma,Davis,emmadavis@gmail.com,Female,45,Germany
+200,Tom,Richardson,tomrichardson@gmail.com,Male,50,Russia
+201,Nancy,Wilson,nancywilson@gmail.com,Female,20,China
+200,Harry,Miller,harrymiller@gmail.com,Male,60,India
+201,Olivia,Martinez,oliviamartinez@gmail.com,Female,55,France

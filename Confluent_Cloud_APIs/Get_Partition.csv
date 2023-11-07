@@ -1,0 +1,11 @@
+statusCode, swaggerDatainfo, originalRequest
+200, info_1, request_1
+201, info_2, request_2
+202, info_3, request_3
+203, info_4, request_4
+204, info_5, request_5
+205, info_6, request_6
+206, info_7, request_7
+207, info_8, request_8
+208, info_9, request_9
+209, info_10, request_10

@@ -1,0 +1,11 @@
+statusCode,userName,email,age,location
+200,JohnDoe,johndoe@mail.com,24,California
+201,JaneSmith,janesmith@mail.com,30,New York
+200,AlexJohnson,alexjohnson@mail.com,33,Florida
+201,EmilyJones,emilyjones@mail.com,26,Washington
+200,RobertBrown,robertbrown@mail.com,35,Texas
+201,LindaDavis,lindadavis@mail.com,,Nevada
+200,MichaelMiller,michaelmiller@mail.com,40,Montana
+201,ElizabethMartinez,elizabethmartinez@mail.com,28,Arizona
+200,JamesRodriguez,jamesrodriguez@mail.com,,Ohio
+201,JenniferGarcia,jennifergarcia@mail.com,32,Utah

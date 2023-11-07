@@ -1,0 +1,11 @@
+statusCode,firstName,lastName,email,gender,location,DOB,phoneNumber
+200,John,Doe,johndoe@email.com,Male,New York,1990-01-01,1234567890
+404,Jane,Doe,janedoe@email.com,Female,Los Angeles,1992-02-02,0987654321
+200,James,Smith,jamessmith@email.com,Male,Chicago,1995-03-03,1122334455
+500,Jenny,Johnson,jennyjohnson@email.com,Female,San Francisco,1985-04-04,2233445566
+200,Joseph,Jackson,josephjackson@email.com,Male,Boston,1980-05-05,3344556677
+404,Jessica,Jones,jessicajones@email.com,Female,Seattle,1999-06-06,4455667788
+200,Jeremiah,Brown,jeremiahbrown@email.com,Male,Houston,1975-07-07,5566778899
+500,Jocelyn,Miller,jocelynmiller@email.com,Female,Philadelphia,2000-08-08,6677889900
+200,Julian,Davis,juliandavis@email.com,Male,Dallas,1988-09-09,7788990011
+404,Julia,Garcia,juliagarcia@email.com,Female,Austin,1997-10-10,8899001122

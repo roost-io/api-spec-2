@@ -1,0 +1,11 @@
+id,firstName,lastName,email,gender,phoneNumber,country,age,statusCode
+1001,John,Doe,johndoe@example.com,Male,1234567890,USA,30,active
+1002,Jane,Smith,janesmith@example.com,Female,2345678910,UK,28,closed
+1003,James,Bond,jbond@example.com,Male,3456789123,USA,40,active
+1004,Emma,Watson,emma.watson@example.com,Female,4567891234,UK,30,closed
+1005,Tom,Hardy,tom.hardy@example.com,Male,2345678901,USA,35,active
+1006,Natalie,Portman,natalie.portman@example.com,Female,3456789012,Canada,32,active
+1007,Christopher,Nolan,c.nolan@example.com,Male,5678912345,USA,45,closed
+1008,Scarlett,Johansson,s.johansson@example.com,Female,6789123456,Canada,33,active
+1009,Robert,Downey,robert.downey@example.com,Male,7891234567,UK,48,closed
+1010,Taylor,Swift,taylor.swift@example.com,Female,8912345678,USA,31,active

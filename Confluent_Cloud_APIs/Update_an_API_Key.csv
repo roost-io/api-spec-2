@@ -1,0 +1,11 @@
+statusCode,swaggerDatainfo,originalRequest
+200,api-info,request1
+404,login-info,request2
+500,database-info,request3
+200,sign-up,request4
+201,logout,request5
+204,billing-info,request6
+500,customer-details,request7
+304,product-details,request8
+200,inventory-check,request9
+401,price-check,request10
