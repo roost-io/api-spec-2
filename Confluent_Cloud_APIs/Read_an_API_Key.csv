@@ -1,0 +1,11 @@
+ID,Name,Age,City,Email,statusCode
+1,John,23,New York,john23@gmail.com,200
+2,Emma,27,Los Angeles,emma27@gmail.com,401
+3,Alex,30,Chicago,,300
+4,,35,San Francisco,alison35@gmail.com,500
+5,Ethan,28,New York,ethan28@gmail.com,204
+6,Olivia,22,,olivia22@gmail.com,404
+7,Liam,25,Los Angeles,,406
+8,Sophia,20,Chicago,sophia20@gmail.com,200
+9,,45,San Francisco,daniel45@gmail.com,300
+10,James,50,New York,,500

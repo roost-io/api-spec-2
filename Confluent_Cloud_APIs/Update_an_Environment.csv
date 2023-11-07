@@ -1,0 +1,11 @@
+ID,Name,Email,Age,Location,statusCode
+1,John,john@example.com,40,New York,200
+2,Mary,mary@example.com,33,Los Angeles,
+3,Steve,steve@example.com,28,San Francisco,300
+4,Sarah,sarah@example.com,35,Austin,400
+5,Mike,,29,Houston,500
+6,Ella,ella@example.com,22,Portland,
+7,Sam,sam@example.com,,Chicago,300
+8,Kate,,27,Seattle,200
+9,Luke,luke@example.com,31,San Diego,500
+10,Jane,jane@example.com,26,Dallas,400

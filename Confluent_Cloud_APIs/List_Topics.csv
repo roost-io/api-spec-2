@@ -1,0 +1,13 @@
+Sure, here's a CSV file with dummy values, assuming values are provided for "statusCode", "swaggerDatainfo", and "originalRequest". 
+
+statusCode, swaggerDatainfo, originalRequest
+200, info1, request1
+404, info2, request2
+500, info3, request3
+304, info4, request4
+201, info5, request5
+403, info6, request6
+501, info7, request7
+401, info8, request8
+200, info9, request9
+404, info10, request10

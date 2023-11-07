@@ -1,0 +1,11 @@
+ID,Name,Email,PhoneNumber,Address,City,Country,DOB,postalcode,statusCode
+1,John Doe,johndoe@example.com,1234567890,123 Main St,New York,USA,01-01-2000,10001,200
+2,Jane Smith,janesmith@example.com,2345678901,456 Park Ave,Los Angeles,USA,02-02-1990,90001,400
+3,Richard Roe,richardroe@example.com,3456789012,789 Broadway,Chicago,USA,03-03-1980,60606,500
+4,Emily Johnson,emilyjohnson@example.com,4567890123,1012 Oak St,Houston,USA,04-04-2000,77002,300
+5,Patricia Brown,patriciabrown@example.com,5678901234,1314 Pine St,Phoenix,USA,05-05-1995,85001,200
+6,James Garcia,jamesgarcia@example.com,6789012345,1516 Elm St,Dallas,USA,06-06-2002,75001,400
+7,Michael Miller,michaelmiller@example.com,7890123456,1718 Maple St,San Diego,USA,07-07-1992,92101,500
+8,Mary Martinez,marymartinez@example.com,8901234567,1920 Cherry St,San Francisco,USA,08-08-1985,94101,300
+9,Robert Hernandez,roberthernandez@example.com,9012345678,2122 Apple St,Seattle,USA,09-09-1999,98101,200
+10,Linda Thompson,lindathompson@example.com,0123456789,2324 Orange St,Boston,USA,10-10-2001,2108,400

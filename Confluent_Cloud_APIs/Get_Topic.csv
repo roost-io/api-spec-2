@@ -1,0 +1,11 @@
+ID,Name,Email,Phone,Address,statusCode
+1,John Doe,johndoe@example.com,1234567890,123 Street,200
+2,Doe John,doejohn@example.com,0987654321,321 Street,404
+3,James Smith,jamessmith@example.com,1122334455,456 Street,500
+4,Smith James,smithjames@example.com,5566778899,654 Street,403
+5,Robert Johnson,robertjohnson@example.com,2233445566,789 Street,200
+6,Johnson Robert,johnsonrobert@example.com,6677889900,987 Street,404
+7,Michael Jackson,michaeljackson@example.com,3344556677,120 Street,500
+8,Jackson Michael,jacksonmichael@example.com,7788990011,021 Street,403
+9,William Williams,williamwilliams@example.com,4455667788,230 Street,200
+10,Williams William,williamswilliam@example.com,9900112233,032 Street,404

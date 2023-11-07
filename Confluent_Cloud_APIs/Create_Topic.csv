@@ -1,0 +1,11 @@
+ID, firstName, lastName, email, gender, ipAddress, statusCode
+1, John, Doe, john.doe@gmail.com, Male, 192.168.1.1, 200
+2, Jane, Smith, jane.smith@hotmail.com, Female, 192.168.1.2, 201
+3, Robert, Johnson, robert.johnson@yahoo.com, Male, 192.168.1.3, 202
+4, Linda, Williams, linda.williams@outlook.com, Female, 192.168.1.4, 203
+5, Michael, Brown, michael.brown@aol.com, Male, 192.168.1.5, 204
+6, Elizabeth, Jones, elizabeth.jones@gmail.com, Female, 192.168.1.6, 205
+7, David, Garcia, david.garcia@hotmail.com, Male, 192.168.1.7, 206
+8, Mary, Miller, mary.miller@yahoo.com, Female, 192.168.1.8, 207
+9, James, Davis, james.davis@outlook.com, Male, 192.168.1.9, 208
+10, Jennifer, Wilson, jennifer.wilson@aol.com, Female, 192.168.1.10, 209

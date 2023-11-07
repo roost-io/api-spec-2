@@ -1,0 +1,11 @@
+ID,Name,Email,Gender,Age,Country,Occupation,statusCode
+1,John Doe,johndoe@email.com,Male,28,USA,Engineer,200
+2,Jane Smith,janesmith@email.com,Female,32,UK,Doctor,
+3,Peter Parker,peterparker@email.com,Male,22,USA,Student,404
+4,Sarah Johnson,sarahjohnson@email.com,Female,27,Canada,Designer,
+5,Michael Brown,michaelbrown@email.com,Male,35,USA,Architect,200
+6,Emma Wilson,emmawilson@email.com,Female,31,Australia,Teacher,500
+7,Alex Davis,alexdavis@email.com,Male,29,USA,Engineer,
+8,Olivia Taylor,oliviataylor@email.com,Female,26,UK,Doctor,404
+9,James Miller,jamesmiller@email.com,Male,33,Canada,Designer,
+10,Sophia Moore,sophiamoore@email.com,Female,30,Australia,Teacher,200

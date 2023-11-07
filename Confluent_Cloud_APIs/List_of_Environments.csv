@@ -1,0 +1,11 @@
+firstName,lastName,age,email,city,statusCode
+John,Doe,28,john.doe@email.com,New York,200
+Jane,Doe,32,jane.doe@email.com,Los Angeles,404
+Bob,Bill,45,bob.bill@email.com,Chicago,200
+Alice,Johnson,23,alice.johnson@email.com,San Francisco,500
+Charlie,Brown,35,charlie.brown@email.com,Seattle,200
+Fiona,Smith,30,fiona.smith@email.com,Houston,404
+George,Miller,40,george.miller@email.com,Phoenix,500
+Hannah,Anderson,27,hannah.anderson@email.com,San Diego,200
+Irene,White,33,irene.white@email.com,Dallas,404
+Jack,Black,37,jack.black@email.com,San Jose,500

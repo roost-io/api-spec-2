@@ -1,0 +1,11 @@
+id,firstName,lastName,email,phoneNumber,statusCode,birthDate,gender,country
+1,John,Doe,johndoe@gmail.com,1234567890,200,1990-01-01,Male,USA
+2,Jane,Doe,janedoe@gmail.com,0987654321,200,1992-02-02,Female,Australia
+3,James,Bond,jamesbond@gmail.com,1122334455,200,1985-03-03,Male,UK
+4,Emma,Watson,emmawatson@gmail.com,5566778899,200,1990-04-04,Female,USA
+5,Michael,Scott,michaelscott@gmail.com,2233445566,200,1965-05-05,Male,USA
+6,Olivia,Pope,oliviapope@gmail.com,6655443322,200,1981-06-06,Female,USA
+7,Tony,Stark,tonystark@gmail.com,4433221100,200,1970-07-07,Male,USA
+8,David,Bowie,davidbowie@gmail.com,8887776665,200,1947-08-08,Male,UK
+9,Mary,Poppins,marypoppins@gmail.com,9998887776,200,1920-09-09,Female,UK
+10,Tom,Hanks,tomhanks@gmail.com,7776665554,200,1956-10-10,Male,USA
