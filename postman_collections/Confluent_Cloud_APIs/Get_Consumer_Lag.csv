@@ -1,0 +1,11 @@
+cluster_id,consumer_group_id,topic_name,partition_id,statusCode
+1,group_1,topic_1,partition_1,200
+2,group_2,topic_2,partition_2,400
+3,group_3,topic_3,partition_3,401
+4,group_4,topic_4,partition_4,403
+5,group_5,topic_5,partition_5,429
+6,group_6,topic_6,partition_6,500
+7,group_7,topic_7,partition_7,200
+8,group_8,topic_8,partition_8,400
+9,group_9,topic_9,partition_9,401
+10,group_10,topic_10,partition_10,403

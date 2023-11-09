@@ -1,0 +1,11 @@
+include_authorized_operations,cluster_id,topic_name,statusCode
+ComputePool,dlz-f3a90de,flink_compute_pool_0,200
+ComputePool,dlz-f3a90de,This quota defines limits on how much the target principals can use cluster lkc-xxxxx,400
+fcpm/v2,dlz-f3a90de,flink_compute_pool_0,401
+fcpm/v2,dlz-f3a90de,This quota defines limits on how much the target principals can use cluster lkc-xxxxx,403
+active,dlz-f3a90de,flink_compute_pool_0,404
+active,dlz-f3a90de,This quota defines limits on how much the target principals can use cluster lkc-xxxxx,429
+johndoe@confluent.io,dlz-f3a90de,flink_compute_pool_0,500
+johndoe@confluent.io,dlz-f3a90de,This quota defines limits on how much the target principals can use cluster lkc-xxxxx,200
+Marty McFly,dlz-f3a90de,flink_compute_pool_0,400
+Marty McFly,dlz-f3a90de,This quota defines limits on how much the target principals can use cluster lkc-xxxxx,401

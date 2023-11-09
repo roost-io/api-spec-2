@@ -1,0 +1,11 @@
+cluster_id,topic_name,partition_id,statusCode
+fcpm/v2,ComputePool,dlz-f3a90de,200
+ComputePool,fcpm/v2,dlz-f3a90de,400
+dlz-f3a90de,ComputePool,fcpm/v2,401
+ComputePool,dlz-f3a90de,fcpm/v2,403
+fcpm/v2,dlz-f3a90de,ComputePool,404
+dlz-f3a90de,fcpm/v2,ComputePool,429
+ComputePool,dlz-f3a90de,fcpm/v2,500
+fcpm/v2,ComputePool,dlz-f3a90de,200
+ComputePool,fcpm/v2,dlz-f3a90de,400
+dlz-f3a90de,ComputePool,fcpm/v2,401
