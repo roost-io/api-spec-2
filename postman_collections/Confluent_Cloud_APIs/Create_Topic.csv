@@ -1,0 +1,8 @@
+cluster_id,topic_name,partitions_count,replication_factor,name,value,validate_only,statusCode,scenario
+cluster-1,topic-X,1,3,kind,KafkaTopic,false,200,Successful responses: OK
+cluster-1,topic-X,1,3,kind,KafkaTopic,false,201,Successful responses: Created
+error_code,40002,false,400,Client error responses: Bad Request
+error_code,40101,false,401,Client error responses: Unauthorized
+error_code,40301,false,403,Client error responses: Forbidden
+error_code,42901,false,429,Client error responses: Too Many Requests
+error_code,500,false,500,Server error responses: Internal Server Error

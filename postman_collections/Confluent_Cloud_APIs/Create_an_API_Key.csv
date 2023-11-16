@@ -1,0 +1,10 @@
+spec,statusCode,scenario
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",202,Successful responses: Accepted
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",400,Client error responses: Bad Request
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",401,Client error responses: Unauthorized
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",402,Client error responses: Payment Required
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",403,Client error responses: Forbidden
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",409,Client error responses: Conflict
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",422,Client error responses: Unprocessable Entity
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",429,Client error responses: Too Many Requests
+"https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de",500,Server error responses: Internal Server Error

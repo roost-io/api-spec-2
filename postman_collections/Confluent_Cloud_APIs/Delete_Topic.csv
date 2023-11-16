@@ -1,0 +1,8 @@
+cluster_id,topic_name,statusCode,scenario
+1,Test Topic 1,204,Successful responses: No Content
+2,Test Topic 2,400,Client error responses: Bad Request
+3,Test Topic 3,401,Client error responses: Unauthorized
+4,Test Topic 4,403,Client error responses: Forbidden
+5,Test Topic 5,404,Client error responses: Not Found
+6,Test Topic 6,429,Client error responses: Too Many Requests
+7,Test Topic 7,500,Server error responses: Internal Server Error

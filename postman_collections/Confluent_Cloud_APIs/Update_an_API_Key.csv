@@ -1,0 +1,10 @@
+id,display_name,description,statusCode,scenario
+1,kafka_access_key1,This_API_key_provides_kafka_access1_1,200,Successful responses: OK
+2,kafka_access_key2,This_API_key_provides_kafka_access1_2,400,Client error responses: Bad Request
+3,kafka_access_key3,This_API_key_provides_kafka_access1_3,401,Client error responses: Unauthorized
+4,kafka_access_key4,This_API_key_provides_kafka_access1_4,402,Client error responses: Payment Required
+5,kafka_access_key5,This_API_key_provides_kafka_access1_5,403,Client error responses: Forbidden
+6,kafka_access_key6,This_API_key_provides_kafka_access1_6,404,Client error responses: Not Found
+7,kafka_access_key7,This_API_key_provides_kafka_access1_7,422,Client error responses: Unprocessable Entity
+8,kafka_access_key8,This_API_key_provides_kafka_access1_8,429,Client error responses: Too Many Requests
+9,kafka_access_key9,This_API_key_provides_kafka_access1_9,500,Server error responses: Internal Server Error

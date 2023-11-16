@@ -1,0 +1,13 @@
+page_size,page_token,statusCode,scenario
+30,a1b2c3,200,Successful responses: OK
+50,d4e5f6,400,Client error responses: Bad Request
+100,g7h8i9,401,Client error responses: Unauthorized
+25,j1k2l3,403,Client error responses: Forbidden
+75,m4n5o6,429,Client error responses: Too Many Requests
+150,p7q8r9,500,Server error responses: Internal Server Error
+60,s1t2u3,200,Successful responses: OK
+90,v4w5x6,400,Client error responses: Bad Request
+120,y7z8a9,401,Client error responses: Unauthorized
+45,b1c2d3,403,Client error responses: Forbidden
+55,e4f5g6,429,Client error responses: Too Many Requests
+125,h7i8j9,500,Server error responses: Internal Server Error
