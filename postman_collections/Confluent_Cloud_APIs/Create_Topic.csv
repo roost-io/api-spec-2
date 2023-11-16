@@ -1,0 +1,8 @@
+cluster_id,topic_name,partitions_count,replication_factor,name,value,validate_only,statusCode,scenario
+cluster-1,topic-X,1,3,api_version,fcpm/v2,0,200,Successful responses: OK
+cluster-1,topic-X,1,3,kind,ComputePool,0,201,Successful responses: Created
+10231,TOPIC-XYZ,4,2,id,dlz-f3a90de,1,400,Client error responses: Bad Request
+10231,TOPIC-XYZ,4,2,secret,R15hoiDIq8Nxu/lY4mPO3DwAVIfU5W7OI+efsB607mLgHTnVW5XJGVqX2ysDx987,1,401,Client error responses: Unauthorized
+10231,TOPIC-XYZ,4,2,display_name,flink_compute_pool_0,0,403,Client error responses: Forbidden
+10231,TOPIC-XYZ,4,2,description,This quota defines limits on how much the target principals can use cluster lkc-xxxxx,1,429,Client error responses: Too Many Requests
+cluster-1,topic-X,1,3,self,https://api.confluent.cloud/v2/kafka-clusters/lkc-f3a90de,0,500,Server error responses: Internal Server Error

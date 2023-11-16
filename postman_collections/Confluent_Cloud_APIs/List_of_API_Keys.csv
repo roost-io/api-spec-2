@@ -1,0 +1,7 @@
+spec.owner,spec.resource,page_size,page_token,statusCode,scenario
+owner1,resource1,20,token1,200,Successful responses: OK
+owner2,resource2,25,token2,400,Client error responses: Bad Request
+owner3,resource3,30,token3,401,Client error responses: Unauthorized
+owner4,resource4,35,token4,403,Client error responses: Forbidden
+owner5,resource5,40,token5,429,Client error responses: Too Many Requests
+owner6,resource6,45,token6,500,Server error responses: Internal Server Error

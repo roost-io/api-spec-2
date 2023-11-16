@@ -1,0 +1,10 @@
+id,display_name,description,statusCode,scenario
+dlz-f3a90de,CI kafka access key,This API key provides kafka access to cluster x,200,Successful responses: OK
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,Invalid Filter,The 'delorean' resource can't be filtered by 'num_doors',400,Client error responses: Bad Request
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,Authentication Required,Valid authentication credentials must be provided,401,Client error responses: Unauthorized
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,Kafka Clusters Per Org Quota Exceeded,The request would exceed the quota: kafka_clusters_per_environment,402,Client error responses: Payment Required
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,User Access Unauthorized,The user 'mcfly' is not allowed to access the 'delorean' resource without the 'plutonium' role.,403,Client error responses: Forbidden
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,Not Found,,404,Client error responses: Not Found
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,Validation Failed,The property '/cluster/storage_size' of type string did not match the following type: integer,422,Client error responses: Unprocessable Entity
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,Validation Failed,The property '/cluster/storage_size' of type string did not match the following type: integer,429,Client error responses: Too Many Requests
+ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d,DeLorean Out Of Gas,The DeLorean has run out of gas, but Doc Brown will fill 'er up for you asap,500,Server error responses: Internal Server Error

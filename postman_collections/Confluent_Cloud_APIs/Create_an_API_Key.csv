@@ -1,0 +1,10 @@
+spec,statusCode,scenario
+"{""api_version"": ""iam/v2"",""kind"": ""ApiKey"",""id"": ""dlz-f3a90de""}",202,Successful responses: Accepted
+"{""id"": ""ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d"",""status"": ""400""}",400,Client error responses: Bad Request
+"{""id"": ""ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d"",""status"": ""401""}",401,Client error responses: Unauthorized
+"{""id"": ""ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d"",""status"": ""402""}",402,Client error responses: Payment Required
+"{""id"": ""ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d"",""status"": ""403""}",403,Client error responses: Forbidden
+"{""id"": ""ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d"",""status"": ""409""}",409,Client error responses: Conflict
+"{""status"": ""422"",""code"": ""invalid_configuration""}",422,Client error responses: Unprocessable Entity
+"",429,Client error responses: Too Many Requests
+"{""id"": ""ed42afdc-f0d5-4c0d-b428-9fc6ed6e279d"",""status"": ""500""}",500,Server error responses: Internal Server Error
