@@ -1,0 +1,11 @@
+name,image,settings
+John Doe,profile1.jpg,{theme:dark, notifications:on, language:en}
+Jane Smith,profile2.jpg,{theme:light, notifications:off, language:es}
+Alice Johnson,profile3.jpg,{theme:dark, notifications:on, language:de}
+Bob Brown,profile4.jpg,{theme:light, notifications:off, language:fr}
+Charlie Black,profile5.jpg,{theme:dark, notifications:on, language:en}
+Diana White,profile6.jpg,{theme:light, notifications:off, language:es}
+Evan Green,profile7.jpg,{theme:dark, notifications:on, language:de}
+Fiona Grey,profile8.jpg,{theme:light, notifications:off, language:fr}
+George Blue,profile9.jpg,{theme:dark, notifications:on, language:en}
+Hannah Purple,profile10.jpg,{theme:light, notifications:off, language:es}

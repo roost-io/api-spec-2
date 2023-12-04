@@ -1,0 +1,11 @@
+invalidEmail,invalidField
+invalid.email.com,TextWithNumbers123
+username@domain,AnotherFieldWithInvalidChars!
+@incorrectemail.org,12345Text
+nouser@@example.net,FieldWithSpecial#Chars
+example.com,NoNumbersJustSpecialChars!
+missingatdomain.com,JustSomeRandomText
+.email@incomplete,Text!With!Punctuation
+userwithoutdomain@,NumbersAndText4567
+invalidemail@.com,SpecialChars&TextTogether
+double..dot@domain.com,TextWith123Numbers
