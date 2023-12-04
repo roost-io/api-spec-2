@@ -1,0 +1,11 @@
+houseId,ownerName,houseLocation,houseType,bedrooms,bathrooms,price,dateListed
+1,John Doe,London,Detached,3,2,350000,2022-01-15
+2,Jane Smith,New York,Apartment,2,1,500000,2022-02-20
+3,Michael Johnson,Sydney,Semi-Detached,4,3,600000,2022-03-25
+4,Lisa Williams,Toronto,Condo,1,1,250000,2022-04-10
+5,James Brown,Paris,Townhouse,2,2,400000,2022-05-05
+6,Mary Davis,Tokyo,Detached,5,3,800000,2022-06-15
+7,Robert Miller,Berlin,Apartment,3,1,350000,2022-07-20
+8,Linda Wilson,Rome,Semi-Detached,3,2,450000,2022-08-25
+9,David Moore,Madrid,Condo,1,1,200000,2022-09-10
+10,Susan Taylor,Beijing,Townhouse,4,2,550000,2022-10-05
