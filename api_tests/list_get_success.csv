@@ -1,0 +1,11 @@
+houseId,firstName,lastName,email,phoneNumber,dateOfBirth
+1234,John,Doe,johndoe@example.com,1234567890,1980-01-01
+2345,Jane,Smith,janesmith@example.com,2345678901,1985-02-02
+3456,James,Brown,jamesbrown@example.com,3456789012,1990-03-03
+4567,Emily,Johnson,emilyjohnson@example.com,4567890123,1995-04-04
+5678,Michael,Williams,michaelwilliams@example.com,5678901234,2000-05-05
+6789,Elizabeth,Taylor,elizabethtaylor@example.com,6789012345,2005-06-06
+7890,David,Jones,davidjones@example.com,7890123456,2010-07-07
+8901,Mary,Brown,marybrown@example.com,8901234567,2015-08-08
+9012,Robert,Miller,robertmiller@example.com,9012345678,2020-09-09
+0123,Patricia,Anderson,patriciaanderson@example.com,0123456789,2025-10-10
