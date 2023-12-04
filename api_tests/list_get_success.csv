@@ -1,0 +1,11 @@
+houseId,ownerName,houseLocation,houseType,bedrooms,bathrooms,price
+1,John Doe,New York,Apartment,3,2,500000
+2,Jane Smith,Los Angeles,Villa,5,4,1200000
+3,Robert Johnson,Chicago,Townhouse,4,3,700000
+4,Michael Brown,San Francisco,Apartment,2,2,600000
+5,Linda Davis,Austin,Villa,6,5,1500000
+6,Elizabeth Miller,Houston,Townhouse,3,2,550000
+7,James Wilson,Philadelphia,Apartment,1,1,300000
+8,Patricia Anderson,Phoenix,Villa,4,3,1000000
+9,David Thomas,San Antonio,Townhouse,2,1,400000
+10,Jennifer Taylor,Dallas,Apartment,3,2,500000
