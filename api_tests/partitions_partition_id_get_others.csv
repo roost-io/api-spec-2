@@ -1,0 +1,11 @@
+cluster_id,topic_name,partition_id
+1,finance,0
+2,health,1
+3,education,2
+four,travel,-1
+5,sports,3
+6,technology,4
+7,entertainment,5
+8,science,6
+nine,lifestyle,7
+10,politics,8

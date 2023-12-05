@@ -1,0 +1,12 @@
+cluster_id,topic_name,include_authorized_operations
+1,Finance,true
+2,Healthcare,false
+3,Education,
+banana,Technology,true
+4,Sports,false
+5,Entertainment,123
+6,Politics,true
+7,Travel,false
+8,Lifestyle,true
+,Science,false
+9,Gaming,maybe
