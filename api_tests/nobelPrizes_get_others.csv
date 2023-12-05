@@ -1,0 +1,11 @@
+nobelPrizeYear,nobelPrizeCategory,sort,offset,limit
+2021,Peace,asc,5,10
+2020,Chemistry,desc,10,20
+2019,Medicine,asc,15,30
+2018,Literature,asc,20,40
+2017,Physics,desc,25,50
+2016,Peace,asc,30,60
+2015,Chemistry,desc,35,70
+banana,Peace,asc,40,80
+2013,Physics,asc,45,90
+2012,Medicine,desc,50,100
