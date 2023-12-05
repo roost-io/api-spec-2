@@ -1,0 +1,11 @@
+name,image,settings
+John Doe,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD,{'theme':'dark','notifications':'enabled'}
+Jane Smith,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD,{'theme':'light','notifications':'disabled'}
+Alice Johnson,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAZABkAAD,{'theme':'dark','notifications':'enabled'}
+Bob Brown,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD,{'theme':'light','notifications':'enabled'}
+Charlie Davis,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD,{'theme':'dark','notifications':'disabled'}
+Diana Evans,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABoAAD,{'theme':'light','notifications':'enabled'}
+Evan Grant,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAZABjAAD,{'theme':'dark','notifications':'disabled'}
+Fiona Harris,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABoAAD,{'theme':'light','notifications':'enabled'}
+George King,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAaABlAAD,{'theme':'dark','notifications':'enabled'}
+Hannah Lee,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD,{'theme':'light','notifications':'disabled'}

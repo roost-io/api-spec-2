@@ -1,0 +1,11 @@
+name,image,settings
+Alice,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD,{"theme":"light","notifications":true}
+Bob,,{"theme":"dark","notifications":false}
+Charlie,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA,{}
+Daisy,not_an_image,{"language":"en","privacy":"public"}
+Eve,data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7,{"theme":"light","notifications":"true"}
+Frank,12345,{"theme":"dark","notifications":"false"}
+Grace,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD,{}
+Henry,http://example.com/image.jpg,{"language":"en","privacy":"private"}
+Ivy,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD,{"theme":"light","notifications":true}
+Jack,invalid_data,{"theme":"dark","notifications":true}

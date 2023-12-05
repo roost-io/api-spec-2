@@ -1,0 +1,11 @@
+id,did,name,image,email,settings,createdAt,updatedAt
+1,10,John Doe,avatar1.png,johndoe@example.com,enabled,2023-01-01T00:00:00Z,2023-01-02T00:00:00Z
+2,11,Jane Smith,avatar2.png,janesmith@example.com,disabled,2023-01-02T00:00:00Z,2023-01-03T00:00:00Z
+3,12,Alice Johnson,avatar3.png,alicejohnson@example.com,enabled,2023-01-03T00:00:00Z,2023-01-04T00:00:00Z
+4,13,Bob Brown,avatar4.png,bobbrown@example.com,disabled,2023-01-04T00:00:00Z,2023-01-05T00:00:00Z
+5,14,Charlie Davis,avatar5.png,charliedavis@example.com,enabled,2023-01-05T00:00:00Z,2023-01-06T00:00:00Z
+6,15,Debbie Watson,avatar6.png,debbiewatson@example.com,disabled,2023-01-06T00:00:00Z,2023-01-07T00:00:00Z
+7,16,Edward Norton,avatar7.png,edwardnorton@example.com,enabled,2023-01-07T00:00:00Z,2023-01-08T00:00:00Z
+8,17,Fiona Campbell,avatar8.png,fionacampbell@example.com,disabled,2023-01-08T00:00:00Z,2023-01-09T00:00:00Z
+9,18,George King,avatar9.png,georgeking@example.com,enabled,2023-01-09T00:00:00Z,2023-01-10T00:00:00Z
+10,19,Hannah Lee,avatar10.png,hannahlee@example.com,disabled,2023-01-10T00:00:00Z,2023-01-11T00:00:00Z
