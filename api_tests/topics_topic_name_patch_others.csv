@@ -1,0 +1,11 @@
+cluster_id,topic_name,partitions_count
+1,weather,5
+2,finance,3
+3,sports,7
+4,news,4
+5,travel,6
+6,education,2
+7,health,5
+8,technology,4
+9,entertainment,3
+10,gaming,8

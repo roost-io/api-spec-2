@@ -1,0 +1,11 @@
+cluster_id,topic_name,partitions_count,replication_factor,configs,validate_only
+1,weather_data,3,2,cleanup.policy=delete;min.insync.replicas=1,false
+2,sales_records,5,3,segment.bytes=1073741824;retention.ms=1680000,true
+3,user_profiles,4,2,max.message.bytes=1000012;flush.messages=10,false
+4,inventory_updates,6,1,delete.retention.ms=100000;file.delete.delay.ms=60000,true
+5,financial_reports,2,3,min.cleanable.dirty.ratio=0.5;preallocate=false,false
+6,transaction_logs,8,2,unclean.leader.election.enable=true;compression.type=gzip,true
+7,system_metrics,1,1,message.format.version=2.1;message.timestamp.type=CreateTime,false
+8,device_status,7,2,segment.index.bytes=10485760;segment.jitter.ms=0,true
+9,clickstream_data,9,3,retention.bytes=10485760;retention.ms=604800000,false
+10,application_logs,3,1,flush.ms=1000;delete.retention.ms=86400000,true

@@ -1,0 +1,11 @@
+cluster_id,topic_name,partitions_count
+1,weather_metrics,5
+2,financial_data,10
+3,user_activities,3
+4,sensor_readings,8
+5,log_entries,4
+6,transaction_records,6
+7,device_status,7
+8,app_events,2
+9,social_media_posts,9
+10,travel_logs,1

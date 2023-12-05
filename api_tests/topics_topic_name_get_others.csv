@@ -1,0 +1,11 @@
+cluster_id,topic_name,include_authorized_operations
+1,WeatherForecast,0
+2,UserPreferences,1
+3,TransactionHistory,0
+4,ProductCatalog,1
+5,EventLog,0
+6,SearchQueries,1
+7,NotificationSettings,0
+8,LocationData,1
+9,ApplicationMetrics,0
+10,UserSessions,1

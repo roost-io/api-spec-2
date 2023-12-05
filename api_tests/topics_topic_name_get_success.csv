@@ -1,0 +1,11 @@
+cluster_id,topic_name,include_authorized_operations
+1,weather_metrics,false
+2,financial_reports,true
+3,social_media_data,false
+4,travel_statistics,true
+5,health_records,false
+6,e-commerce_activity,true
+7,energy_consumption,false
+8,education_insights,true
+9,technology_trends,false
+10,agricultural_analysis,true
