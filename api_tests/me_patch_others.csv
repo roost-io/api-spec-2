@@ -1,0 +1,11 @@
+name,image,settings
+John Doe,,
+Jane Smith,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD,{}
+Bob Johnson,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA,{"theme":"dark","notifications":true}
+Alice Brown,not_an_image,{"language":"en","privacy":"public"}
+Eve Davis,data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7,{"timezone":"UTC","email":"newsletter":false}
+Charlie Black,,{"layout":"grid","history":true}
+Grace Hall,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD,invalid_json
+Ivy Green,randomtext,{"currency":"USD","ads":"minimal"}
+Liam Stone,data:image/jpeg;base64,5Y+RJREFUeJzsvQdYFFEUx/F,{}
+Zoe King,,{"color_mode":"light"}
