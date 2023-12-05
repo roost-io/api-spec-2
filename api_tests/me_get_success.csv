@@ -1,0 +1,11 @@
+id,name,email,createdAt,updatedAt
+1,Thor Odinson,thor.odinson@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+2,Jane Doe,jane.doe@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+3,Steve Rogers,steve.rogers@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+4,Tony Stark,tony.stark@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+5,Bruce Banner,bruce.banner@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+6,Natasha Romanoff,natasha.romanoff@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+7,Clint Barton,clint.barton@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+8,Wanda Maximoff,wanda.maximoff@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+9,Peter Parker,peter.parker@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z
+10,Scott Lang,scott.lang@example.com,2023-04-05T08:34:14Z,2023-04-05T08:34:14Z

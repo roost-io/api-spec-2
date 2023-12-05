@@ -1,0 +1,11 @@
+description,error,field,schema_field,value
+Successful POST request,,POST login,HTTP request is: 'method'" POST |'URL': "/login",{"client":"john.doe@example.com","email":123456,"otp":"Client1"}
+Error in token format,Response body property token must match pattern,POST login,response.body.token,string
+Successful GET request,,GET me,HTTP request is: 'method'" GET |'URL': "/me",null
+Invalid email format,Request body property email must match format,Violation: response.body.email,POST accounts,{"email":"\"[qGUg[GA[/\"@6ZITR.xrveZEwJU.1ikCFt.63NsFi.CtAwaM.yR0ooW4.2yB3-ra9O.rT"}
+Missing email field,Request body property email is required,POST login,response.body.email,{}
+Invalid accept header,Request contains an accept header,GET me,request.header.accept,"application/xml"
+Unsuccessful PATCH due to invalid UUID,Request path parameter id must match format,UUID error,HTTP request is: 'method'" PATCH |'URL': "/me",{"name":"Jane Doe"}
+Invalid content length,Request body length mismatch,POST login,request.header.content-length,""
+Invalid method used,HTTP request method not allowed,GET credentials,request is: 'method'" GET |'URL': "/credentials/2",null
+Error in birthDate format,Request body property birthDate must match format,POST persons,response.body.birthDate,"<date>"
