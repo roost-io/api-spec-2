@@ -1,0 +1,11 @@
+sn,cameraId,timestamp,confidence,alert,subAlert,photoUrl,videoUrl
+3521060002134,2,2021-01-01 22:30:55,0.95,true,Motion Detected,http://mywebsite.com/photo1.jpg,http://mywebsite.com/video1.mp4
+8631260002134,1,2021-02-02 21:31:50,0.92,true,Sound Detected,http://mywebsite.com/photo2.jpg,http://mywebsite.com/video2.mp4
+9857860002134,3,2021-03-03 20:32:45,0.90,false,Thermal Anomaly,http://mywebsite.com/photo3.jpg,http://mywebsite.com/video3.mp4
+4578960002134,4,2021-04-04 19:33:40,0.87,false,Face Detected,http://mywebsite.com/photo4.jpg,http://mywebsite.com/video4.mp4
+2547860002134,5,2021-05-05 18:34:35,0.85,false,Object Detected,http://mywebsite.com/photo5.jpg,http://mywebsite.com/video5.mp4
+1863960002134,6,2021-06-06 17:35:30,0.80,false,Heat Source,http://mywebsite.com/photo6.jpg,http://mywebsite.com/video6.mp4
+6582960002134,7,2021-07-07 16:36:25,0.77,true,Sound Detected,http://mywebsite.com/photo7.jpg,http://mywebsite.com/video7.mp4
+4789860002134,8,2021-08-08 15:37:20,0.75,true,Motion Detected,http://mywebsite.com/photo8.jpg,http://mywebsite.com/video8.mp4
+2198960002134,9,2021-09-09 14:38:15,0.70,false,Thermal Anomaly,http://mywebsite.com/photo9.jpg,http://mywebsite.com/video9.mp4
+9894160002134,10,2021-10-10 13:39:10,0.65,true,Face Detected,http://mywebsite.com/photo10.jpg,http://mywebsite.com/video10.mp4

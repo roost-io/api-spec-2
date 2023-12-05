@@ -1,0 +1,11 @@
+sn,cameraId,timestamp,confidence,alert,subAlert,photoUrl,videoUrl
+123456,cam01,2022-02-01 07:20:15,0.95,true,fire,http://example.com/photo1.jpg,http://example.com/video1.mp4
+789012,cam02,2022-01-30 16:04:55,0.90,true,smoke,http://example.com/photo2.jpg,http://example.com/video2.mp4
+345678,cam03,2022-02-02 10:12:42,0.85,false,none,http://example.com/photo3.jpg,http://example.com/video3.mp4
+901234,cam04,2022-02-02 16:45:13,0.89,false,none,http://example.com/photo4.jpg,http://example.com/video4.mp4
+567890,cam05,2022-01-29 11:17:27,0.93,true,fire,http://example.com/photo5.jpg,http://example.com/video5.mp4
+210345,cam06,2022-02-01 06:19:51,0.96,true,smoke,http://example.com/photo6.jpg,http://example.com/video6.mp4
+654321,cam07,2022-02-01 22:50:32,0.88,true,smoke,http://example.com/photo7.jpg,http://example.com/video7.mp4
+432109,cam08,2022-01-31 18:25:12,0.91,false,none,http://example.com/photo8.jpg,http://example.com/video8.mp4
+876543,cam09,2022-02-02 21:35:45,0.92,true,fire,http://example.com/photo9.jpg,http://example.com/video9.mp4
+109876,cam10,2022-01-30 09:44:19,0.97,false,none,http://example.com/photo10.jpg,http://example.com/video10.mp4
