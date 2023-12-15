@@ -1,0 +1,11 @@
+id,url,urlApiSpecDetails
+1,/authorizations/1,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+2,/authorizations/2,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+3,/authorizations/3,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+4,/authorizations/4,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+5,/authorizations/5,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+6,/authorizations/6,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+7,/authorizations/7,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+8,/authorizations/8,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+9,/authorizations/9,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"
+10,/authorizations/10,"{""securityScheme"":""{ ApiKeyAuth: { type: 'apiKey', name: 'Token', in: 'header' } }""}"

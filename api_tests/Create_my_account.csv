@@ -1,0 +1,11 @@
+commit-hash,email,url,path,methodType,id,did,name,image,settings,createdAt,updatedAt
+abc123,john.doe@example.com,/accounts,/accounts,post,1,null,John Doe,null,{},2022-01-01 12:00:00,2022-01-02 12:00:00
+def456,jane.doe@example.com,/me,/me,get,2,null,Jane Doe,null,{},2022-01-02 12:00:00,2022-01-03 12:00:00
+ghi789,mary.jane@example.com,/accounts,/accounts,post,3,null,Mary Jane,null,{},2022-01-03 12:00:00,2022-01-04 12:00:00
+jkl012,robert.smith@example.com,/me,/me,get,4,null,Robert Smith,null,{},2022-01-04 12:00:00,2022-01-05 12:00:00
+mno345,james.bond@example.com,/accounts,/accounts,post,5,null,James Bond,null,{},2022-01-05 12:00:00,2022-01-06 12:00:00
+pqr678,emma.watson@example.com,/me,/me,get,6,null,Emma Watson,null,{},2022-01-06 12:00:00,2022-01-07 12:00:00
+stu901,harry.potter@example.com,/accounts,/accounts,post,7,null,Harry Potter,null,{},2022-01-07 12:00:00,2022-01-08 12:00:00
+vwx234,hermione.granger@example.com,/me,/me,get,8,null,Hermione Granger,null,{},2022-01-08 12:00:00,2022-01-09 12:00:00
+yz0123,ron.weasley@example.com,/accounts,/accounts,post,9,null,Ron Weasley,null,{},2022-01-09 12:00:00,2022-01-10 12:00:00
+abc456,draco.malfoy@example.com,/me,/me,get,10,null,Draco Malfoy,null,{},2022-01-10 12:00:00,2022-01-11 12:00:00
