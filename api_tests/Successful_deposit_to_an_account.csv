@@ -1,0 +1,11 @@
+customerId,sourceAccountId,amount,currency,frontImage,backImage
+123456,SA12345,1000,USD,frontImage1.jpg,backImage1.jpg
+234567,SA23456,2000,EUR,frontImage2.jpg,backImage2.jpg
+345678,SA34567,1500,GBP,frontImage3.jpg,backImage3.jpg
+456789,SA45678,2500,AUD,frontImage4.jpg,backImage4.jpg
+567890,SA56789,3000,CAD,frontImage5.jpg,backImage5.jpg
+678901,SA67890,3500,JPY,frontImage6.jpg,backImage6.jpg
+789012,SA78901,4000,CHF,frontImage7.jpg,backImage7.jpg
+890123,SA89012,4500,SGD,frontImage8.jpg,backImage8.jpg
+901234,SA90123,5000,NZD,frontImage9.jpg,backImage9.jpg
+012345,SA01234,5500,ZAR,frontImage10.jpg,backImage10.jpg
