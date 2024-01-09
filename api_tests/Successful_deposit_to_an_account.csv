@@ -1,0 +1,11 @@
+customerId,sourceAccountId,amount,currency,frontImage,backImage
+12345,SA123456,10000,USD,front1.jpg,back1.jpg
+12346,SA123457,20000,USD,front2.jpg,back2.jpg
+12347,SA123458,15000,EUR,front3.jpg,back3.jpg
+12348,SA123459,30000,USD,front4.jpg,back4.jpg
+12349,SA123460,25000,EUR,front5.jpg,back5.jpg
+12350,SA123461,35000,USD,front6.jpg,back6.jpg
+12351,SA123462,40000,EUR,front7.jpg,back7.jpg
+12352,SA123463,45000,USD,front8.jpg,back8.jpg
+12353,SA123464,50000,EUR,front9.jpg,back9.jpg
+12354,SA123465,55000,USD,front10.jpg,back10.jpg
