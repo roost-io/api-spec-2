@@ -39,4 +39,6 @@ scenarios:
             - hasProperty: "token"
             - hasHeader: "api-version"
             - headerEquals: ["api-version", "1.0.0"]
+            - not:
+                equals: ["error", "Invalid email format"]
           think: 1
