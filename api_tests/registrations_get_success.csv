@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+3e97b131-a956-4e41-8f59-a5fef6d5b3e4,http://localhost:4012/recipients/branches/2343/registrations,20,0,400
+6a1fa52e-3387-4b12-be97-4e9a5529be8d,http://localhost:4012/recipients/branches/2343/registrations,15,5,400
+45f9897b-504b-4de7-bfdb-5ab835892496,http://localhost:4012/recipients/branches/2343/registrations,30,10,400
+3fd64b3a-71d2-4662-82e4-57fa1d1422ea,http://localhost:4012/recipients/branches/2343/registrations,25,15,400
+7b8e5277-354f-4e89-8ba3-f0306c14c3c3,http://localhost:4012/recipients/branches/2343/registrations,35,20,400
+8c5fe1a3-8d22-4e2e-8eac-8d0ed32d4a8c,http://localhost:4012/recipients/branches/2343/registrations,40,25,400
+9d6f1172-0123-4567-89ab-cdef01234567,http://localhost:4012/recipients/branches/2343/registrations,45,30,400
+abcdef12-3456-7890-abcd-ef1234567890,http://localhost:4012/recipients/branches/2343/registrations,50,35,400
+12345678-9abc-def0-1234-56789abcdef0,http://localhost:4012/recipients/branches/2343/registrations,10,40,400
+fedcba98-7654-3210-fedc-ba9876543210,http://localhost:4012/recipients/branches/2343/registrations,5,45,400

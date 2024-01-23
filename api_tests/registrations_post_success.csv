@@ -1,0 +1,11 @@
+id,credentialUrl,startDate,endDate,reference
+3fa85f64-5717-4562-b3fc-2c963f66afa6,http://example.com,2021-01-01,2021-12-31,ref1
+6fa85f64-5717-4562-b3fc-2c963f66afa2,http://example.com,2021-02-01,2021-12-31,ref2
+5fa85f64-5717-4562-b3fc-2c963f66afa3,http://example.com,2021-03-01,2021-12-31,ref3
+2fa85f64-5717-4562-b3fc-2c963f66afa4,http://example.com,2021-04-01,2021-12-31,ref4
+9fa85f64-5717-4562-b3fc-2c963f66afa5,http://example.com,2021-05-01,2021-12-31,ref5
+1fa85f64-5717-4562-b3fc-2c963f66afa6,http://example.com,2021-06-01,2021-12-31,ref6
+8fa85f64-5717-4562-b3fc-2c963f66afa7,http://example.com,2021-07-01,2021-12-31,ref7
+7fa85f64-5717-4562-b3fc-2c963f66afa8,http://example.com,2021-08-01,2021-12-31,ref8
+4fa85f64-5717-4562-b3fc-2c963f66afa9,http://example.com,2021-09-01,2021-12-31,ref9
+0fa85f64-5717-4562-b3fc-2c963f66afa0,http://example.com,2021-10-01,2021-12-31,ref10
