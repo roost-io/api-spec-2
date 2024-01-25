@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization,statusCode
+kore123,botA,uc001,acc123,authA,200
+kore124,botB,uc002,acc124,authB,201
+kore125,botC,uc003,acc125,authC,202
+kore126,botD,uc004,acc126,authD,203
+kore127,botE,uc005,acc127,authE,204
+kore128,botF,uc006,acc128,authF,205
+kore129,botG,uc007,acc129,authG,206
+kore130,botH,uc008,acc130,authH,207
+kore131,botI,uc009,acc131,authI,208
+kore132,botJ,uc010,acc132,authJ,209

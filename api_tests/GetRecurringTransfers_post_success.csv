@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization,statusCode
+kore123,botA12,usC01,acc789,authXYZ,200
+kore124,botB23,usC02,acc790,authABC,201
+kore125,botC34,usC03,acc791,authDEF,202
+kore126,botD45,usC04,acc792,authGHI,203
+kore127,botE56,usC05,acc793,authJKL,204
+kore128,botF67,usC06,acc794,authMNO,205
+kore129,botG78,usC07,acc795,authPQR,206
+kore130,botH89,usC08,acc796,authSTU,207
+kore131,botI90,usC09,acc797,authVWX,208
+kore132,botJ01,usC10,acc798,authYZA,209
